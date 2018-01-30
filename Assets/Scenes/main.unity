@@ -5425,6 +5425,21 @@ Prefab:
       propertyPath: m_FontData.m_RichText
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114067521257894220, guid: aba3e2a8f69ff7946bc953b048b24b47,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114067521257894220, guid: aba3e2a8f69ff7946bc953b048b24b47,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.040441185
+      objectReference: {fileID: 0}
+    - target: {fileID: 114067521257894220, guid: aba3e2a8f69ff7946bc953b048b24b47,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.040441185
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: aba3e2a8f69ff7946bc953b048b24b47, type: 2}
   m_IsPrefabParent: 0
